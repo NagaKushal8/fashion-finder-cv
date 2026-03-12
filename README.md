@@ -1,8 +1,6 @@
 # FashionFinder
 
-**FashionFinder** is an image search engine for clothing. You give it a photo of a garment — say, a black T-shirt — and it finds the most visually similar items from a large catalogue. No text queries, no tags, just the image itself.
-
-![Pipeline](images/pipeline.png)
+**FashionFinder** is an image search engine for clothing. You give it a photo of a garment - say, a black T-shirt and it finds the most visually similar items from a large catalogue. No text queries, no tags, just the image itself.
 
 ---
 
